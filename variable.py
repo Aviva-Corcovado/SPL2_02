@@ -38,4 +38,4 @@ for i in range (1, 100):
 	
 while (True) :
 	i += 2
-	print (i, end=" ")
+	print (i, end=".")
