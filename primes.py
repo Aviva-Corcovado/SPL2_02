@@ -5,5 +5,5 @@ for n in range(2, 1001):
     for x in range(2, n):
         if n % x == 0:         
             break
-	else:
+    else:
         print (n) 
